@@ -15,42 +15,42 @@ Limitations:
 Usage:
 -----
 
-![Alt text](https://github.com/pranav-srinivas-kumar/Projects/blob/master/Python/ROS-Indigo-Installer/screenshots/Usage.png?raw=true "Usage")
+![Alt text](https://github.com/pranav-srinivas-kumar/ros-installer/blob/master/screenshots/Usage.png?raw=true "Usage")
 
 Setup Sources.list & Keys:
 -------------------------
 
-![Alt text](https://github.com/pranav-srinivas-kumar/Projects/blob/master/Python/ROS-Indigo-Installer/screenshots/Setup.png?raw=true "Setup")
+![Alt text](https://github.com/pranav-srinivas-kumar/ros-installer/blob/master/screenshots/Setup.png?raw=true "Setup")
 
 Install Bootstrap Dependencies:
 ------------------------------
 
-![Alt text](https://github.com/pranav-srinivas-kumar/Projects/blob/master/Python/ROS-Indigo-Installer/screenshots/Bootstrap.png?raw=true "Bootstrap")
+![Alt text](https://github.com/pranav-srinivas-kumar/ros-installer/blob/master/screenshots/Bootstrap.png?raw=true "Bootstrap")
 
 Initialize Rosdep:
 -----------------
 
-![Alt text](https://github.com/pranav-srinivas-kumar/Projects/blob/master/Python/ROS-Indigo-Installer/screenshots/Rosdep.png?raw=true "Setup")
+![Alt text](https://github.com/pranav-srinivas-kumar/ros-installer/blob/master/screenshots/Rosdep.png?raw=true "Setup")
 
 Fetch Core Packages:
 -------------------
 
-![Alt text](https://github.com/pranav-srinivas-kumar/Projects/blob/master/Python/ROS-Indigo-Installer/screenshots/Core.png?raw=true "Setup")
+![Alt text](https://github.com/pranav-srinivas-kumar/ros-installer/blob/master/screenshots/Core.png?raw=true "Setup")
 
 Build Catkin Workspace:
 ----------------------
 
-![Alt text](https://github.com/pranav-srinivas-kumar/Projects/blob/master/Python/ROS-Indigo-Installer/screenshots/Build.png?raw=true "Setup")
+![Alt text](https://github.com/pranav-srinivas-kumar/ros-installer/blob/master/screenshots/Build.png?raw=true "Setup")
 
 Successful Build:
 ----------------
 
-![Alt text](https://github.com/pranav-srinivas-kumar/Projects/blob/master/Python/ROS-Indigo-Installer/screenshots/Done.png?raw=true "Setup")
+![Alt text](https://github.com/pranav-srinivas-kumar/ros-installer/blob/master/screenshots/Done.png?raw=true "Setup")
 
 Roscore Test:
 ------------
 
-![Alt text](https://github.com/pranav-srinivas-kumar/Projects/blob/master/Python/ROS-Indigo-Installer/screenshots/Roscore.png?raw=true "Setup")
+![Alt text](https://github.com/pranav-srinivas-kumar/ros-installer/blob/master/screenshots/Roscore.png?raw=true "Setup")
 
 
 
